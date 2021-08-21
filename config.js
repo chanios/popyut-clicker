@@ -1,10 +1,9 @@
 module.exports = {
-    clickintervalperworker : 5,//in ms
+    clickintervalperworker : 5, //in ms
     worker_count: 16,
-
-
-    sendperreq : 800,//Recommanded 800
+    sendperreq : 800, //Maximum = 800
     guild_id : 79
+    
     // [All Guild 21/8/2021]
     // 1 Bangkok
     // 2 Samut Prakan
