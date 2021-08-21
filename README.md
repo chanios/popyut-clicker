@@ -1,0 +1,1 @@
+# prayut.click Clicker
